@@ -50,6 +50,7 @@ public class CustomAlertDialog extends Dialog implements View.OnClickListener {
         /**
          * 初始化控件
          */
+
         sheng = (TextView) findViewById(R.id.sheng);
         shi = (TextView) findViewById(R.id.shi);
         qu = (TextView) findViewById(R.id.qu);
